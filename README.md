@@ -1,4 +1,4 @@
-- Evellyn Laurenti, 18 anos.
+- Evellyn Laurenti, 19 anos.
 - Front-End Developer (JR).
 - Carapicuiba, SP.
 - 2/5 Analise e Desenvolvimento de Sistemas.
