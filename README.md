@@ -5,17 +5,17 @@
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/elaurenti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elaurenti&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaurenti&layout=compact&langs_count=7&theme=moltack "/>
 </div>
-  
-  ##
+
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Eve-Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/embed/hVle3v01CScLyGRe0i">
 </div>
   
   ##
