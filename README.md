@@ -1,9 +1,7 @@
-- Evellyn Laurenti, 19 anos.
-- Front-End Developer (JR).
+- Evellyn Laurenti 19 anos, Front-End Developer (JR).
 - Carapicuiba, SP.
 - 2/5 Analise e Desenvolvimento de Sistemas.
-
-
+##
 <div align="center">
   <a href="https://github.com/elaurenti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elaurenti&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
