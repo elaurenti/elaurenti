@@ -1,6 +1,11 @@
-- Evellyn Laurenti 19 anos, Front-End Developer (JR).
-- Carapicuiba, SP.
-- 2/5 Analise e Desenvolvimento de Sistemas.
+### Oii! 🥰 me chamo Evellyn ✨
+
+- 💻 Atualmente trabalho com Desenvolvimento Web - Front-End Developer (JR).
+- 🏢 GFT Brasil.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - 2/5
+- 📍  Carapicuiba, São - Paulo.
+
+
 
 <div align="center">
   <a href="https://github.com/elaurenti">
