@@ -3,8 +3,6 @@
 - 💻 Atualmente trabalho com Desenvolvimento Web - Front-End Developer (JR).
 - 🏢 GFT Brasil.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - 2/5
-- 📍  Carapicuiba, São - Paulo.
-
 
 
 <div align="center">
