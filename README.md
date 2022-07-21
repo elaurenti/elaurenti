@@ -2,7 +2,7 @@
 
 - 💻 Atualmente trabalho com Desenvolvimento Web - Front-End Developer (JR).
 - 🏢 GFT Brasil.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - 2/5
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
 
 
 <div align="center">
