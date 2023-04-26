@@ -1,8 +1,8 @@
 ### Oii! 🥰 me chamo Evellyn ✨
 
 - 💻 Atualmente trabalho com Desenvolvimento Web - Front-End Developer (JR).
-- 🏢 GFT Brasil.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
+- 🏢 Open to work.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - 4/5
 
 
 <div align="center">
