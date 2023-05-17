@@ -1,4 +1,4 @@
-### Oii! 🥰 eu sou a Evellyn ✨
+### ooi! 🥰 eu sou a Evellyn ✨
 
 - 💻 Atualmente trabalho com Desenvolvimento Web - Front-End Developer (JR).
 - 🏢 Open to work.
