@@ -2,7 +2,7 @@
 
 - 💻 Sou uma Desenvolvedora Web - Front-End (JR).
 - 🏢 Open to work.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - 4/5
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - 5/5
 
 <div align="center">
   <a href="https://github.com/elaurenti">
