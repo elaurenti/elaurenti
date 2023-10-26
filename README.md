@@ -1,8 +1,8 @@
 ### ooi! 🥰 eu sou a Evellyn ✨
 
-- 💻 Sou uma Desenvolvedora Web - Front-End (JR).
+- 💻 Sou uma Desenvolvedora Web - Front-End.
 - 🏢 Open to work.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - 5/5
+- 📚 Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/elaurenti">
